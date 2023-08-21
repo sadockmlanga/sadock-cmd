@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadock-cmd
 - 👀 I’m interested in software Development and Networking
-- 🌱 I’m currently learning react js and express js
+- 🌱 I’m expert on Laravel Framework and Vue js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : sadockpiason@gmail.com
 
